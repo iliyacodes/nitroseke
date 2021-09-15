@@ -1,1 +1,1 @@
--git clone https://github.com/iliyacodes/SmS-BooM.git
+- git clone https://github.com/iliyacodes/SmS-BooM.git
