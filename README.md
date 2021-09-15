@@ -1,1 +1,2 @@
 - git clone https://github.com/iliyacodes/SmS-BooM.git
+- Cr: instagram.com/iliya.tricks
