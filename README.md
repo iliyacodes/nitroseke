@@ -1,2 +1,2 @@
-- git clone https://github.com/iliyacodes/SmS-BooM.git
-- Cr: instagram.com/iliya.tricks
+- git clone https://github.com/iliyacodes/nitroseke.git
+- Cr: instagram.com/mioxiliya
